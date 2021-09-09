@@ -1,0 +1,39 @@
+.uD0-size-32{
+    height: 32px;
+    width: 32px;
+}
+
+.uD0-size-72{
+    height: 72px;
+    width: 72px;
+}
+
+.uD0-size-42-36{
+    width: 42px;
+    height: 36px;
+}
+
+.uD0-cover{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.uD0-m-l-auto{
+    margin-left: auto;
+}
+
+.uD0-gap-24{
+    gap: 24px;
+}
+
+.uD0-click{
+    cursor: pointer;
+}
+
+.uD0-dash-br{
+    border-style: dashed;
+    border-color: #6E747C;
+    border-width: 2px;
+    border-radius: 5px;
+}

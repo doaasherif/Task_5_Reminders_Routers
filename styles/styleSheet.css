@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+
+li{
+    padding-left: 24px;
+}
+
+.D0-aside{
+    height: 100vh;
+    min-width: 462px;
+    transition: all ease-in-out 400ms;
+}
+
+.D0-aside-con{
+    height: 100vh;
+}
+
+.D0-nav{
+    height: 176px;
+    width: 100%;
+
+}
+
+.D0-master-container{
+    /* height: 80px; */
+    width: 100%;
+}
+
+.D0-rem-header{
+    height: 80px;
+    padding: 24px;
+}
+
+.D0-aside-li{
+    height: 80px;
+}
+
+.D0-user-sec{
+    height: 120px;
+    max-height: 120px;
+    /* padding: 24px; */
+    /* width: 462px;
+    transition: all ease-in-out 400ms; */
+}
+
+.cD0-createTask{
+    height: 120px;
+
+    
+}
